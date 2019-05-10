@@ -1,6 +1,6 @@
 # Pesticides Brazil dataset for Tableau
 
-This repository is dedicated to the configuration of the original Pesticides-Brazil dataset () for a visualization project using Tableau.
+This repository is dedicated to the configuration of the original Pesticides-Brazil dataset ([https://app.rios.org.br/index.php/s/ljppVjrP37ak8HE](Vigilância - Agrotóxicos 2014_2017)) for a visualization project using Tableau.
 
 # Modifications
 - Values "<LQ" were set to 0.0;
